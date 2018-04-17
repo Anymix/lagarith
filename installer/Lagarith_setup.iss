@@ -7,7 +7,7 @@
   #error Update your Inno Setup version (5.5.9 or newer)
 #endif
 
-#define bindir "..\src\VS2015"
+#define bindir "..\src\VS2017"
 
 
 [Setup]
